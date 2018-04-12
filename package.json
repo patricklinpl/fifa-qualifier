@@ -1,7 +1,7 @@
 {
-  "name": "web-scraper-template",
+  "name": "fifa-qualifier-scraper",
   "version": "1.0.0",
-  "description": "template web scraper",
+  "description": "scrapes fifa qualifier data for bracket prediction",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/patricklinpl/web-scraper-template.git"
+    "url": "git+https://github.com/patricklinpl/fifa-qualifier-scraper.git"
   },
   "author": "Patrick Lin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/patricklinpl/web-scraper-template/issues"
+    "url": "https://github.com/patricklinpl/fifa-qualifier-scraper/issues"
   },
-  "homepage": "https://github.com/patricklinpl/web-scraper-template#readme",
+  "homepage": "https://github.com/patricklinpl/fifa-qualifier-scraper#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "puppeteer": "^1.2.0"
