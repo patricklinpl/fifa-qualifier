@@ -1,4 +1,4 @@
-# web-scraper-template
+# fifa-qualifier-scraper
 
 ## Requirements
 
