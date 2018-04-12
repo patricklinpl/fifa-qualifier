@@ -24,7 +24,7 @@ Just go on [official Node.js website](http://nodejs.org/) & grab the installer.
 
 ## Install
 
-    $ git clone https://github.com/patricklinpl/web-scraper-template.git
+    $ git clone https://github.com/patricklinpl/fifa-qualifier-scraper.git
     $ cd PROJECT
     $ npm install
  
