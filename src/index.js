@@ -8,11 +8,11 @@ const scraper = async () => {
     const page = await browser.newPage()
     await page.goto('http://www.espn.com/soccer/scoreboard/_/league/FIFA.WORLDQ.AFC/date/20150312')
 
-    const textContent = await page.evaluate(() => {
-      return document.querySelector('#events').textContent
-    })
+    const content = await page.content()
 
-    console.log(textContent)
+    const $ = cheerio.load(content)
+
+    console.log($('#events').html())
 
     browser.close()
   } catch (error) {
