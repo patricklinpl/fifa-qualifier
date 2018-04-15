@@ -1,7 +1,7 @@
 {
   "name": "fifa-qualifier-scraper",
   "version": "1.0.0",
-  "description": "fifa qualifier data scraper for bracket prediction",
+  "description": "CLI tool to scrape FIFA World Cup Qualifier data for use in bracket predictions",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
