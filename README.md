@@ -32,6 +32,21 @@ Just go on [official Node.js website](http://nodejs.org/) & grab the installer.
 
     $ npm start
 
-## Simple build for production
+## Usage
 
-    $ npm run build
+```
+Enter a Confederation to update the FIFA Qualifier Game IDs?
+    caf
+    concacaf
+    conmebol
+    uefa
+    skip
+
+Enter a Confederation to update the FIFA Qualifier Stats?
+    caf
+    concacaf
+    conmebol
+    uefa
+    all
+    skip
+```
