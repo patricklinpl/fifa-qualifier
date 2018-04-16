@@ -36,17 +36,23 @@ Just go on [official Node.js website](http://nodejs.org/) & grab the installer.
 
 ```
 Enter a Confederation to update the FIFA Qualifier Game IDs?
+    afc
     caf
     concacaf
     conmebol
+    inter
+    ofc
     uefa
-    skip
+                    - blank to skip
 
 Enter a Confederation to update the FIFA Qualifier Stats?
+    afc
     caf
     concacaf
     conmebol
     uefa
+    inter
+    ofc
     all
-    skip
+                    - blank to skip
 ```
