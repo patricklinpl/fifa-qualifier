@@ -1,5 +1,8 @@
 # fifa-qualifier-scraper
 
+## Scrape Game Summaries
+![Alt Text][http://recordit.co/Dncoiqp8DF.gif]
+
 ## Requirements
 
 For development, you will only need Node.js installed on your environement.
