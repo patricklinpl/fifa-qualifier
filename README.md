@@ -1,5 +1,8 @@
 # fifa-qualifier-scraper
 
+## Scrape Game Ids
+![Alt Text](http://recordit.co/nVd0s3hlDT.gif)
+
 ## Scrape Game Summaries
 ![Alt Text](http://recordit.co/Dncoiqp8DF.gif)
 
