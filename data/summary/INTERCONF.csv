@@ -1,5 +1,5 @@
 espnGameLink,espnGameId,team1,team1Score,team2,team2Score,team1Fouls,team1Yellows,team1Reds,team1Offsides,team1Corners,team1Saves,team1Possession,team1Shots,team1OnGoal,team2Fouls,team2Yellows,team2Reds,team2Offsides,team2Corners,team2Saves,team2Possession,team2Shots,team2OnGoal
-"http://www.espn.com/soccer/matchstats?gameId=497670","497670","Peru","2","New Zealand","0","19","3","0","0","5","2","60%","7 ","4","20","1","0","1","7","0","40%","3 ","0"
-"http://www.espn.com/soccer/matchstats?gameId=497671","497671","New Zealand","0","Peru","0","15","2","0","3","2","0","38%","5 ","0","13","1","0","1","3","3","62%","11 ","3"
 "http://www.espn.com/soccer/matchstats?gameId=497669","497669","Honduras","0","Australia","0","24","4","0","4","3","1","44%","5 ","1","14","4","0","2","4","4","56%","7 ","4"
 "http://www.espn.com/soccer/matchstats?gameId=497668","497668","Australia","3","Honduras","1","19","4","0","4","5","1","62%","13 ","4","26","3","0","0","1","0","38%","8 ","1"
+"http://www.espn.com/soccer/matchstats?gameId=497671","497671","New Zealand","0","Peru","0","15","2","0","3","2","0","38%","5 ","0","13","1","0","1","3","3","62%","11 ","3"
+"http://www.espn.com/soccer/matchstats?gameId=497670","497670","Peru","2","New Zealand","0","19","3","0","0","5","2","60%","7 ","4","20","1","0","1","7","0","40%","3 ","0"
