@@ -47,10 +47,9 @@ Enter a Confederation to update the FIFA Qualifier Game IDs?
     concacaf
     conmebol
     friendly
+    uefa
     inter
     ofc
-    uefa
-    all
                     - blank to skip
 
 Enter a Confederation to update the FIFA Qualifier Stats?
