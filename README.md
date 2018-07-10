@@ -1,4 +1,6 @@
 # fifa-qualifier-scraper
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![Known Vulnerabilities](https://snyk.io/test/github/patricklinpl/fifa-qualifier-scraper/badge.svg?targetFile=package.json)](https://snyk.io/test/github/patricklinpl/fifa-qualifier-scraper?targetFile=package.json)
 
 ## Scrape Game Ids
 ![Alt Text](http://recordit.co/nVd0s3hlDT.gif)
