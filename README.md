@@ -1,6 +1,6 @@
 # fifa-qualifier
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
-[![Known Vulnerabilities](https://snyk.io/test/github/patricklinpl/fifa-qualifier-scraper/badge.svg?targetFile=package.json)](https://snyk.io/test/github/patricklinpl/fifa-qualifier-scraper?targetFile=package.json)
+[![Known Vulnerabilities](https://snyk.io/test/github/patricklinpl/fifa-qualifier/badge.svg?targetFile=package.json)](https://snyk.io/test/github/patricklinpl/fifa-qualifier?targetFile=package.json)
 
 ## Scrape Game Ids
 ![Alt Text](http://recordit.co/nVd0s3hlDT.gif)
@@ -32,7 +32,7 @@ Just go on [official Node.js website](http://nodejs.org/) & grab the installer.
 
 ## Install
 
-    $ git clone https://github.com/patricklinpl/fifa-qualifier-scraper.git
+    $ git clone https://github.com/patricklinpl/fifa-qualifier.git
     $ cd PROJECT
     $ npm install
  
