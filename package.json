@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/patricklinpl/fifa-qualifier-scraper.git"
+    "url": "git+https://github.com/patricklinpl/fifa-qualifier.git"
   },
   "author": "Patrick Lin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/patricklinpl/fifa-qualifier-scraper/issues"
+    "url": "https://github.com/patricklinpl/fifa-qualifier/issues"
   },
-  "homepage": "https://github.com/patricklinpl/fifa-qualifier-scraper#readme",
+  "homepage": "https://github.com/patricklinpl/fifa-qualifier#readme",
   "dependencies": {
     "axios": "^0.18.0",
     "bluebird": "^3.5.1",
