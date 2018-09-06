@@ -1,4 +1,4 @@
-# fifa-qualifier-scraper
+# fifa-qualifier
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![Known Vulnerabilities](https://snyk.io/test/github/patricklinpl/fifa-qualifier-scraper/badge.svg?targetFile=package.json)](https://snyk.io/test/github/patricklinpl/fifa-qualifier-scraper?targetFile=package.json)
 
