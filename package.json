@@ -27,7 +27,7 @@
     "figlet": "^1.2.0",
     "inquirer": "^5.2.0",
     "mkdirp": "^0.5.1",
-    "puppeteer": "^1.2.0"
+    "puppeteer": "^1.13.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
