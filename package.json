@@ -6,7 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "rimraf dist/ && babel lib -s -D -d dist",
-    "start": "npm run build && node dist/index.js"
+    "start": "npm run build && node dist/index.js",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -27,7 +29,8 @@
     "figlet": "^1.2.0",
     "inquirer": "^5.2.0",
     "mkdirp": "^0.5.1",
-    "puppeteer": "^1.2.0"
+    "puppeteer": "^1.2.0",
+    "snyk": "^1.161.1"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
@@ -41,5 +44,6 @@
       "env",
       "stage-0"
     ]
-  }
+  },
+  "snyk": true
 }
